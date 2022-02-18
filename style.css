@@ -125,6 +125,11 @@ ul {
                 animation-delay: 0.5s;
         }
 
+        #txt:hover, .txt:hover{
+                color: #58C4DD;
+                transform: translateY(2px);
+        }
+
 
         video {
                 display: block;
