@@ -80,4 +80,20 @@ header h1 {
     #active:hover {
             color: #ffffff;
     }
+
+    #const {
+        display: block;
+        margin: auto;
+        color: rgb(255, 255, 255);
+        letter-spacing: 1px;
+        background-color: #21272f;
+        font-size: small;
+}
+
+.const {
+        display: block;
+        margin: auto;
+        max-width: fit-content;
+        margin-top: 20%;
+}
 }
