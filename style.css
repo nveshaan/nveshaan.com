@@ -137,6 +137,7 @@ ul {
                 color: #ffffff;
                 font-size: 50px;
                 font-weight: bold;
+                cursor: default;
         }
 
         .txt {
@@ -149,6 +150,7 @@ ul {
                 opacity: 0;
                 animation: fadein 1s forwards;
                 animation-delay: 0.5s;
+                cursor: default;
         }
 
         #txt:hover, .txt:hover{
