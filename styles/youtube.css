@@ -99,6 +99,7 @@ header {
                 padding: 30px 10%;
                 max-height: fit-content;
                 flex-direction: column;
+                padding-bottom: 20px;
         }
         
         nav ul {
@@ -127,6 +128,7 @@ header {
         header {
                 flex-direction: row;
                 max-height: 90px;
+                padding-bottom: 30px;
         }
 
         .nv {
