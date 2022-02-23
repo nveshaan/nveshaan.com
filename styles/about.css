@@ -46,6 +46,15 @@ header {
         font-weight: lighter;
 }
 
+.manim {
+        background-color: #21272f;
+        color: #58C4DD;
+}
+
+.int:hover {
+        color: #58C4DD;
+}
+
 
 /* Animations */
 @keyframes fadein {
