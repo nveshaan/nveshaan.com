@@ -73,7 +73,7 @@ header {
 }
 
 
-
+/* Animations */
 @keyframes floating {
         0% { transform: translate(0,  0px); }
         50%  { transform: translate(0, 10%); }
@@ -87,8 +87,8 @@ header {
 }
 
 
-
-/* Extra small devices (phones, 600px and down) */
+/* Media Queries */
+/* 699px and down */
 @media only screen and (max-width: 699px) {
         main, header {
                 display: none;
@@ -112,15 +112,7 @@ header {
 
 }
 
-/* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {
-}
-
-/* Medium devices (landscape tablets, 768px and up) */
-@media only screen and (min-width: 768px) {
-}
-
-/* Large devices (laptops/desktops, 992px and up) */
+/* 700px and up */
 @media only screen and (min-width: 700px) {
         #const, .const {
                 display: none;
@@ -183,7 +175,7 @@ header {
         }
 }
 
-/* Extra large devices (large laptops and desktops, 1200px and up) */
+/* 1200px and up */
 @media only screen and (min-width: 1200px) {
 
         header {
