@@ -71,6 +71,7 @@ header {
 
 .footer h6 span a:hover {
         color: #ffffff;
+        transition: none;
 }
 
 
