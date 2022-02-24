@@ -2,7 +2,6 @@
         box-sizing: border-box;
         margin: 0;
         padding: 0;
-        transition: 00.3s;
 }
 
 body {
@@ -54,6 +53,7 @@ header {
 #txt {
         background-color: #21272f;
         padding: 0;
+        transition: 0.3s;
 }
 
 .txt {
@@ -65,6 +65,7 @@ header {
         animation-delay: 0.5s;
         cursor: default;
         color: #ffffff;
+        transition: 0.3s;
 }
 
 #txt:hover, .txt:hover{
