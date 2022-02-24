@@ -73,6 +73,10 @@ header {
         color: #ffffff;
 }
 
+.footer h6 span a {
+        transition: none;
+}
+
 
 /* Animations */
 @keyframes floating {
