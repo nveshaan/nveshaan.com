@@ -181,7 +181,7 @@ header {
                 animation-delay: 4.5s;
         }
 
-        p {
+        .p {
                 position: relative;
                 text-align: left;
                 font-size: large;
