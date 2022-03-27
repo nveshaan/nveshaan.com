@@ -49,7 +49,6 @@
                 align-items: center;
                 padding: 30px 10%;
                 max-height: fit-content;
-                flex-direction: column;
                 padding-bottom: 20px;
         }
         
